@@ -1,6 +1,6 @@
 ## Hey, Welcome !
 
-Hi! I'm Arnab Mondal. A Young Full Stack Web Developer From West Bengal. Expert In Programming Launges Like Php, Sql, Java And Many More....
+Hi, I'm Arnab Mondal. A Young Full Stack Web Developer From West Bengal. Expert In Programming Languages Like Php, Sql, Java And Many More....
 
 ## Get In Touch !
 
