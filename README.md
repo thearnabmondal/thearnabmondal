@@ -1,7 +1,6 @@
 ## Hey, Welcome !
 
-Hi, I'm Arnab Mondal. A Young Full Stack Web Developer From West Bengal. Expert In Programming Languages Like Php, Sql, Java And Many More....
-
+Hi, I'm Arnab Mondal. A Self Learned 14 Year Old Programmer And Ethical Hacker Who Known Programming Languages Like Python, Php, Java.
 ## Get In Touch !
 
 **Follow Me On [Twitter.](https://twitter.com/thearnabmondal)**
