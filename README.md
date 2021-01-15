@@ -1,4 +1,4 @@
-<img src="icon.gif" align="right" width="30%" />
+<img src="icon.gif" align="right" width="25%" />
 
 ## Hey, Welcome !
 
