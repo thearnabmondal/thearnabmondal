@@ -1,4 +1,4 @@
-<img src="icon.gif" style="width: 100vw;"/>
+<img src="icon.gif"/>
 
 ## Hey, Welcome !
 
